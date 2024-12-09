@@ -1,7 +1,10 @@
-![Island Overhead](./img/1.png) ![Island](./img/2.png)
+<p align="center">
+  <img src="./img/1.png" alt="Island Overhead" width="45%">
+  <img src="./img/2.png" alt="Island" width="45%">
+</p>
 
 ## AUTHORS
-Mohammad Rehman
+Mohammad Rehman,
 Liam Agar
 
 ## INSTRUCTIONS
